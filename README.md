@@ -1,0 +1,1 @@
+Este repositorio contiene el código y los análisis desarrollados para mi proyecto de tesis, enfocado en el análisis del consumo de agua en la Ciudad de México mediante técnicas de análisis de datos y Machine Learning.
